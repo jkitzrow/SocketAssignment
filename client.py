@@ -6,6 +6,7 @@ name = "Josh Kitzrow"
 print("Client of " + name)
 
 # Error checking loop
+# TODO: check if user entered an integer
 canContinue = False
 while not canContinue:
     # Prompt user for number
